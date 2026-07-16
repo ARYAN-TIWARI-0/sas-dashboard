@@ -1,0 +1,7 @@
+# Raw data stays local — only the dashboard (index.html) is published
+input.csv
+main.xlsx
+*.csv
+*.xlsx
+__pycache__/
+*.pyc
